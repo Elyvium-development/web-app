@@ -13,3 +13,5 @@ services:
       - FINERACT_PLATFORM_TENANT_IDENTIFIER=default
       - MIFOS_SESSION_IDLE_TIMEOUT=300000
       - MIFOS_OAUTH_SERVER_ENABLED=false
+    volumes:
+      - /home/elyvium/projects/keycloak/certs:/certs:ro
