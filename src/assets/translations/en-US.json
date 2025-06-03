@@ -3394,19 +3394,8 @@
     }
   },
   "languages": {
-    "cs-CS": "Čeština (Czech)",
-    "de-DE": "Deutsch (German)",
     "en-US": "English",
-    "es-MX": "Español (Spanish)",
-    "es-CL": "Español Chile (Spanish)",
-    "fr-FR": "Français (French)",
-    "it-IT": "Italiano (Italian)",
-    "ko-KO": "한국어 (Korean)",
-    "lt-LT": "Lietuvių (Lithuanian)",
-    "lv-LV": "Latviešu (Latvian)",
-    "ne-NE": "नेपाली (Nepali)",
-    "pt-PT": "Português (Portuguese)",
-    "sw-SW": "Kiswahili (Swahili)"
+    "ar-EG": "العربية (Arabic)"
   },
   "not_found_subtitle": "Oops.. Looks like this page doesn't exist.",
   "tooltips": {
